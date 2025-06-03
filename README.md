@@ -25,6 +25,11 @@ This is a full-stack web application built with Python that allows users to regi
 **Database:**
 - MySQL (phpMyAdmin)
   
+**🌐Screenshots** 
 
+![Registration_Form](https://github.com/user-attachments/assets/329145a5-49e4-46ba-8607-e6fd20736978) 
+
+
+![CRUD_OP](https://github.com/user-attachments/assets/a453a152-e172-49f4-b68b-cb5703fc83a1)
 
    
